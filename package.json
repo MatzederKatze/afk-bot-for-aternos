@@ -12,5 +12,8 @@
     "config": "^3.3.3",
     "fs": "0.0.1-security",
     "mineflayer": "^2.37.1"
+  },
+  "devDependencies": {
+    "@flydotio/dockerfile": "^0.7.12"
   }
 }
